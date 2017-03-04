@@ -10,4 +10,4 @@ Install **Python 2.7** and **wxPython 3.0**
 
 ### Compile
 
-Install **cx_freeze** and run **build.bat**
+Install **cx_freeze 4.3.3** and run **build.bat**
